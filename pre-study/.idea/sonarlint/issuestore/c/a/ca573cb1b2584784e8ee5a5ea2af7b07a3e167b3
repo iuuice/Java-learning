@@ -1,20 +1,0 @@
-
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Çµí‘
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(‡òáÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‹¦¹øÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.( Ş7
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÅÀ×üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÎ„èÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ôØòÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-S	java:S106"9Replace this use of System.out or System.err by a logger.(îš¨Ãúÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(Û™ÙÊûÿÿÿÿ
-M	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ø›Íûÿÿÿÿ
-M	java:S106-"9Replace this use of System.out or System.err by a logger.(öW
-S	java:S106/"9Replace this use of System.out or System.err by a logger.(Ø›Íûÿÿÿÿ
-M	java:S1063"9Replace this use of System.out or System.err by a logger.(ÇÑ×
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†ªØ¸
